@@ -3,3 +3,7 @@ Functional requirements
 a. Login
 b. Placement portal
 c. View attendence
+Non-functional requirements
+a. Security check
+b. usability
+c. Scalability
